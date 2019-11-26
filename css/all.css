@@ -1,0 +1,253 @@
+#logoTop{
+    width: 20%;
+}
+
+#logoLogin{
+    width: 40%;
+}
+
+.bgLogin{
+    background-image: url("http://playfulli.com.au/wp-content/uploads/2018/10/happy-employees.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgLoginCor{
+    background-color: #ffffff;
+    opacity: 0.96;
+}
+
+.notOpacit{
+    opacity: 1;
+}
+
+.w-50{
+    width: 50%;
+}
+
+.f14{
+    font-size: 14px;
+}
+
+.jaque{
+    text-align: center;
+}
+
+.a100{
+    width: 100vw;
+    height: 100vh;
+}
+
+.w80{
+    width: 80vw;
+}
+
+.h80{
+    height: 80vh;
+}
+
+.a80{
+    width: 80vw;
+    height: 80vh;
+}
+
+.w60{
+    width: 60vw;
+}
+
+.h60{
+    height: 60vh;
+}
+
+.a60{
+    width: 60vw;
+    height: 60vh;
+}
+
+.a50{
+    width: 50vw;
+    height: 50vh;
+}
+
+.a40{
+    width: 40vw;
+    height: 40vh;
+}
+
+
+.h50{
+    height: 50vh;
+}
+
+.w50{
+    width: 50vw;
+}
+
+.w100{
+    width: 100vw;
+}
+
+.h100{
+    height: 100vh;
+}
+
+.vogado{
+    height: 100%;
+}
+
+.vogado2{
+    width: 100%;
+}
+
+.vogado3{
+    width: 80%;
+}
+
+.trav{
+    position: fixed;
+}
+
+.bgfff{
+    background: #ffffff;
+}
+
+.bg4f{
+    background: #4f4f4f;
+}
+
+.wow{
+    color: #ffffff;
+}
+
+.BlkBg:hover{
+    background: #000000;
+    color: #ffffff;
+}
+
+.whLink:hover{
+    color: #ffffff;
+}
+
+.assWeb{
+    text-align: center;
+    font-size: 10px;
+    color: #4f4f4f;
+}
+
+.bg1{
+    background-color: #4f4f4f;
+}
+
+.bg2{
+    background-color: #c1c1c1;
+}
+
+.colorA9{
+    color: #A9A9A9;
+}
+
+.colorc1{
+    color: #c1c1c1;
+}
+
+.allCenter{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.allLeft{
+    display:flex;
+    justify-content:left;
+    align-items:center;
+}
+
+.allRight{
+    display:flex;
+    justify-content:right;
+    align-items:center;
+}
+
+.all-Center{
+    justify-content:center;
+    align-items:center;
+}
+
+.img-prod{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.img-list{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    
+}
+
+/* ------------------------------- ZOOM */
+
+.zoom {
+	overflow: hidden;
+}
+
+.zoom img {
+	max-width: 100%;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.zoom:hover img {
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    width: 100%;
+    height: auto;
+    border-radius: 0%;
+}
+
+/* ------------------------------- FIM ZOOM */
+
+/* ------------------------------- GOOGLE */
+
+.material-icons.md-18{
+     font-size: 18px;
+}
+
+.material-icons.md-24{
+    font-size: 24px;
+}
+
+.material-icons.md-36{
+    font-size: 36px;
+}
+
+.material-icons.md-48{
+    font-size: 48px;
+}
+
+.material-icons.md-54{
+    font-size: 54px;
+}
+
+.material-icons.md-62{
+    font-size: 62px;
+}
+
+.material-icons.md-68{
+    font-size: 68px;
+}
+
+.material-icons.md-76{
+    font-size: 76px;
+}
+
+.material-icons.cA9{
+    color: #A9A9A9;
+}
+
+/* ------------------------------- FIM GOOGLE */
